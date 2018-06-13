@@ -53,6 +53,7 @@ These links might help you with Azure positioning:
 * [Public cloud business webinar series for partners](https://www.microsoftpartnerserverandcloud.com/Pages/azurewebinars.aspx): this webinar series contains information to help you understand how public cloud is different from other technologies, and seeing best (and worst) practices.
 * [Initiate the cloud conversation](https://www.microsoftpartnerserverandcloud.com/Pages/contents.aspx?page=58&color=00BCF2): some basic information to get you started
 * [Data Center Transformation](https://www.microsoftpartnerserverandcloud.com/Pages/practice.aspx?page=15): business and technical information on DC transformation, including customer-ready PPTs.
+* [Demo site](https://demos.microsoft.com/): ready demos. Mainly O365, some Azure as well
 
 ## Compliance
 
