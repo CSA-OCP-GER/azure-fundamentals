@@ -22,6 +22,7 @@ Here you can find useful tools to work with Azure:
 * [ARM viewer (international cloud)](https://resources.azure.com): if you want to see how Azure internally describes resources and test the Azure ARM REST API
 * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/): more than 600 ARM templates ready to be downloaded, used, and adapted to your custom needs
 * [Azure SDKs and Tools](https://aka.ms/azuresdk): download the most frequently used Azure tools, such as Powershell modules, the Azure CLI 2.0, the storage explorer and many others 
+* [Subscription Management](https://account.windowsazure.com/Subscriptions): for example, in order to apply cost limits to a subscription
 
 
 ## Designing your solution
@@ -53,6 +54,12 @@ These links might help you with Azure positioning:
 * [Initiate the cloud conversation](https://www.microsoftpartnerserverandcloud.com/Pages/contents.aspx?page=58&color=00BCF2): some basic information to get you started
 * [Data Center Transformation](https://www.microsoftpartnerserverandcloud.com/Pages/practice.aspx?page=15): business and technical information on DC transformation, including customer-ready PPTs.
 
+## Compliance
+
+Some important info about compliance:
+
+* [Azure Trust Center](https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx): entry point for all compliance-related questions
+* [Compliance reports download](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide): for further details on individual compliance programs
 
 ## Training
 
