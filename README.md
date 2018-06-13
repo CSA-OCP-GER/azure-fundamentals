@@ -35,6 +35,7 @@ These links contain important info that you will need to design any Azure soluti
 * [Azure products per region](https://azure.microsoft.com/en-us/global-infrastructure/services/): which products are available where?
 * [Azure VM sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes): this link with the Linux sizes, the Windows sizes are essentially the same.
 * [ExpressRoute configuration](https://channel9.msdn.com/Blogs/bfrank/Hybrid-Network-ExpressRoute-interxion-Azure): 30min video describing the installation of ExpressRoute
+* [Azure SLAs](https://aka.ms/azuresla): here you can find the SLAs for all Azure products, very important to have the right level of redundancy in your solution.
 
 
 ## Pricing
