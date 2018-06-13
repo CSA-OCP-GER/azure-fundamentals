@@ -33,13 +33,14 @@ These links contain important info that you will need to design any Azure soluti
 * [Reference architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/): no need to reinvent the wheel
 * [Azure products per region](https://azure.microsoft.com/en-us/global-infrastructure/services/): which products are available where?
 * [Azure VM sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes): this link with the Linux sizes, the Windows sizes are essentially the same.
+* [ExpressRoute configuration](https://channel9.msdn.com/Blogs/bfrank/Hybrid-Network-ExpressRoute-interxion-Azure): 30min video describing the installation of ExpressRoute
 
 
 ## Pricing
 
 Price-related information:
 
-* [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/): for cost calculations
+* [Azure calculator](https://azure.microsoft.com/en-us/pricing/calculator/): for cost calculations
 * [Azure documentation](https://docs.microsoft.com/en-us/azure/#pivot=products): each Azure product has a dedicated pricing page in the documentation area (tip: your search engine of choice can probably find it really quickly)
 * [Microsoft Cloud Solution Provider Program](https://partnercenter.microsoft.com/en-us/partner/cloud-solution-provider): find out about the preferred Azure sales motion for Microsoft partners 
 
