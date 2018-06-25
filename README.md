@@ -1,9 +1,9 @@
 # Azure Fundamentals - Starter Kit
 
-This repository containes a collection of where to find resources to help you get kickstarted with Microsoft Azure. These links are discussed in "Azure Fundamentals" workshops held face to face by the Microsoft German CSA-P team.
+This repository contains a collection of where to find resources to help you get kickstarted with Microsoft Azure. These links are discussed in "Azure Fundamentals" workshops held face to face by the Microsoft German CSA-P team.
+If you are interested in deepening your knowledge through more face-to-face events, have a look at the  [Partner Learning Events Website for Germany](https://aka.ms/mehr-wissen).
 
-
-## The basics
+## The Basics
 
 These links are the basics you need to get you started:
 
@@ -11,8 +11,7 @@ These links are the basics you need to get you started:
 * [Azure regions](https://azure.microsoft.com/en-us/global-infrastructure/regions/): where is Azure around the world
 * [Azure blog](https://azure.microsoft.com/en-us/blog/): Stay up to date with the latest Azure announcements
 
-
-## The tools
+## The Tools
 
 Here you can find useful tools to work with Azure:
 
@@ -21,7 +20,7 @@ Here you can find useful tools to work with Azure:
 * [Cloud shell (international cloud)](https://shell.azure.com)
 * [ARM viewer (international cloud)](https://resources.azure.com): if you want to see how Azure internally describes resources and test the Azure ARM REST API
 * [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/): more than 600 ARM templates ready to be downloaded, used, and adapted to your custom needs
-* [Azure SDKs and Tools](https://aka.ms/azuresdk): download the most frequently used Azure tools, such as Powershell modules, the Azure CLI 2.0, the storage explorer and many others 
+* [Azure SDKs and Tools](https://aka.ms/azuresdk): download the most frequently used Azure tools, such as PowerShell modules, the Azure CLI 2.0, the Storage Explorer and many others 
 * [Subscription Management](https://account.windowsazure.com/Subscriptions): for example, in order to apply cost limits to a subscription
 
 
@@ -37,15 +36,13 @@ These links contain important info that you will need to design any Azure soluti
 * [ExpressRoute configuration](https://channel9.msdn.com/Blogs/bfrank/Hybrid-Network-ExpressRoute-interxion-Azure): 30min video describing the installation of ExpressRoute
 * [Azure SLAs](https://aka.ms/azuresla): here you can find the SLAs for all Azure products, very important to have the right level of redundancy in your solution.
 
-
 ## Pricing
 
 Price-related information:
 
-* [Azure calculator](https://azure.microsoft.com/en-us/pricing/calculator/): for cost calculations
-* [Azure documentation](https://docs.microsoft.com/en-us/azure/#pivot=products): each Azure product has a dedicated pricing page in the documentation area (tip: your search engine of choice can probably find it really quickly)
+* [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/): for cost calculations
+* [Azure Documentation](https://docs.microsoft.com/en-us/azure/#pivot=products): each Azure product has a dedicated pricing page in the documentation area (tip: your search engine of choice can probably find it really quickly)
 * [Microsoft Cloud Solution Provider Program](https://partnercenter.microsoft.com/en-us/partner/cloud-solution-provider): find out about the preferred Azure sales motion for Microsoft partners 
-
 
 ## Sales (partner-oriented)
 
@@ -69,7 +66,5 @@ The good news is that there are lots of options here. The bad news is, there are
 
 * [EDX.org](https://www.edx.org/course?search_query=azure): lots of free courses on Azure
 * [Learn Azure](https://aka.ms/learnazure)
-* [Partner learning events in Germany](https://aka.ms/mehr-wissen): webinars and workshops organized for Microsoft partners in Germany
-* [Azure curriculum examples](https://www.microsoft.com/de-de/partner/readiness/curricula.aspx): example Azure curricula in different areas (Azure Stack, IoT, AI, Data, etc) featured by the Microsoft Cloud Solutions Architect team.
-
- 
+* [Partner Learning Events in Germany](https://aka.ms/mehr-wissen): webinars and workshops organized for Microsoft partners in Germany
+* [Azure curriculum examples](https://www.microsoft.com/de-de/partner/readiness/curricula.aspx): example Azure curricula in different areas (Azure Stack, IoT, AI, Data, etc) featured by the Microsoft Cloud Solutions Architect team
