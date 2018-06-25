@@ -1,7 +1,8 @@
 # Azure Fundamentals - Starter Kit
 
 This repository contains a collection of where to find resources to help you get kickstarted with Microsoft Azure. These links are discussed in "Azure Fundamentals" workshops held face to face by the Microsoft German CSA-P team.
-If you are interested in deepening your knowledge through more face-to-face events, have a look at the  [Partner Learning Events Website for Germany](https://aka.ms/mehr-wissen).
+
+**If you are interested in deepening your knowledge through more face-to-face events, have a look at the  [Partner Learning Events Website for Germany](https://aka.ms/mehr-wissen).**
 
 ## The Basics
 
@@ -24,7 +25,7 @@ Here you can find useful tools to work with Azure:
 * [Subscription Management](https://account.windowsazure.com/Subscriptions): for example, in order to apply cost limits to a subscription
 
 
-## Designing your solution
+## Designing your Solution
 
 These links contain important info that you will need to design any Azure solution:
 
