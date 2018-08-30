@@ -33,7 +33,7 @@ These links contain important info that you will need to design any Azure soluti
 * [Azure Limits](https://aka.ms/azurelimits): Azure scalability limits for all services
 * [Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/): no need to reinvent the wheel
 * [Azure Products per Region](https://azure.microsoft.com/en-us/global-infrastructure/services/): which products are available where?
-* [Azure VM Sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes): this link with the Linux sizes, the Windows sizes are essentially the same.
+* [Azure VM Sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes): this link with the Linux sizes, the Windows sizes are essentially the same. (for VM migrations see [Azure Migrate](https://azure.microsoft.com/en-us/services/azure-migrate/) and the [POC Guide](https://download.microsoft.com/download/F/4/1/F41EF1A8-98FB-4A6F-B535-95B675911ACC/PoC-guide-VM-Migration-to-Azure-final.pdf))
 * [ExpressRoute configuration](https://channel9.msdn.com/Blogs/bfrank/Hybrid-Network-ExpressRoute-interxion-Azure): 30min video describing the installation of ExpressRoute
 * [Azure SLAs](https://azure.microsoft.com/en-us/support/legal/sla/): here you can find the SLAs for all Azure products, very important to have the right level of redundancy in your solution.
 * [Azure SQL (PaaS) Database or SQL Server on Azure VMs (IaaS)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas): Helps you determining how to run your SQL Server workloads, either as hosted infrastructure (IaaS) or running as a hosted service (PaaS)
