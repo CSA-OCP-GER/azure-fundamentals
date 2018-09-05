@@ -4,6 +4,10 @@ This repository contains a collection of where to find resources to help you get
 
 **If you are interested in deepening your knowledge through more face-to-face events, have a look at the  [Partner Learning Events Website for Germany](https://aka.ms/mehr-wissen).**
 
+## Slides
+
+* [Azure Fundamentals September 2018](https://1drv.ms/p/s!ArmaMTQLU4cHcHDKt8uRYKbvdeA)
+
 ## The Basics
 
 These links are the basics you need to get you started:
