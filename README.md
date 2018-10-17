@@ -15,6 +15,7 @@ These links are the basics you need to get you started:
 * [Azure Free Account](https://azure.microsoft.com/en-us/free/): get your free Azure account
 * [Azure Regions](https://azure.microsoft.com/en-us/global-infrastructure/regions/): where is Azure around the world
 * [Azure Blog](https://azure.microsoft.com/en-us/blog/): Stay up to date with the latest Azure announcements
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/): Interactive and quick way of learning Azure
 
 ## The Tools
 
