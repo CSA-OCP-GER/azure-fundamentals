@@ -6,7 +6,8 @@ This repository contains a collection of where to find resources to help you get
 
 ## Slides
 
-* [Azure Fundamentals September 2018](https://1drv.ms/p/s!ArmaMTQLU4cHcHDKt8uRYKbvdeA)
+* [Azure Fundamentals October 2018 (Koeln)](https://1drv.ms/u/s!ArmaMTQLU4cHdqq2IphAgUzHbiA)
+* [Azure Fundamentals September 2018 (Muenchen)](https://1drv.ms/p/s!ArmaMTQLU4cHcHDKt8uRYKbvdeA)
 
 ## The Basics
 
